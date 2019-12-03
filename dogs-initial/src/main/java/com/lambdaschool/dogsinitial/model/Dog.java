@@ -65,4 +65,6 @@ public class Dog
     {
         this.apartmentSuitable = apartmentSuitable;
     }
+
+    public boolean getApartmentSuitable() { return apartmentSuitable; }
 }
