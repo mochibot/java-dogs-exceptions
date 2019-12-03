@@ -1,5 +1,5 @@
 package com.lambdaschool.dogsinitial;
-
+import com.lambdaschool.dogsinitial.model.Dog;
 import java.util.ArrayList;
 
 public class DogList
